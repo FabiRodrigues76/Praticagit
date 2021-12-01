@@ -1,1 +1,1 @@
-olá esse projeto, pe para estudo do git
+olá esse projeto, e para estudo do git
